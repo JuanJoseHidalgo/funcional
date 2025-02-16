@@ -1,7 +1,7 @@
 ## Programación funcional
 ### Tratase de facer un programa realizado con bucles inicialmente, aproveitando as vantaxes da programación funcional
 ### Pódese apreciar a reducción no tamaño do código.
-### Obxectivo:
+### Obxectivo: Táboa dos cadrados dos 100 primeiros números.
 0000  0001  0004  0009  0016  0025  0036  0049  0064  0081  
 0100  0121  0144  0169  0196  0225  0256  0289  0324  0361  
 0400  0441  0484  0529  0576  0625  0676  0729  0784  0841  
